@@ -1,9 +1,8 @@
 <h1 align="center">Oi 👋, eu sou o Mateus</h1>
 <h3 align="center">Um estudante se aventurando pelo mundo da programação</h3>
 
-- Atualmente estou aprendendo **C,Java,PHP,JavaScript,HTML e CSS**
+- Atualmente estou aprendendo *Html, CSS, JavaScript**
 
-- 📫 Você pode me encontrar em: **mateussoaresmarques10101@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
