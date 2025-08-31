@@ -1,28 +1,24 @@
-<h1 align="center">👋 Olá, eu sou o Mateus</h1>
-<h3 align="center">Estudante de Desenvolvimento Full Stack com JavaScript 🚀</h3>
+<h1 align="center">Olá, eu sou o Mateus</h1>
+<h3 align="center">Estudante de Desenvolvimento Full Stack com JavaScript</h3>
 
 ---
 
-### 👨‍💻 Sobre mim
-- 🎓 Cursando **Desenvolvimento Full Stack com JavaScript** no **SENAC RJ**  
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na **Estácio**  
-- 🌱 Atualmente aprendendo: **HTML, CSS, JavaScript**  
-- 🔮 Em breve: **Node.js (back-end)** e **Flutter (mobile)**  
-- 💡 Interesse em: **desenvolvimento web, aplicações full stack e mobile**  
-- 📫 Contato: **Mateus195.ms@gmail.com**
+### Sobre mim
+- Cursando **Desenvolvimento Full Stack com JavaScript** no **SENAC RJ**  
+- Graduando em **Análise e Desenvolvimento de Sistemas** na **Estácio**  
+- Atualmente aprendendo: **HTML, CSS, JavaScript**  
+- Em breve: **Node.js (back-end)** e **Flutter (mobile)**  
+- Interesse em: **desenvolvimento web, aplicações full stack e mobile**  
+- Contato: **mateussoaresmarques10101@hotmail.com**
 
 ---
 
-### 🌐 Conecte-se comigo
-<p align="left">
-<a href="https://www.linkedin.com/in/mateus-marques-bb1625285/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Mateus" height="30" width="40" />
-</a>
-</p>
+### Conecte-se comigo
+[LinkedIn - Mateus Marques](https://www.linkedin.com/in/mateus-marques-bb1625285/)  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -43,4 +39,4 @@
 
 ---
 
-✨ *“Sempre aprendendo, sempre construindo.”*  
+"Sempre aprendendo."  
